@@ -13,7 +13,7 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="python-original.svg"></code>
+  <code><img title="Python" height="25" src="python.svg"></code>
   <code><img title="Javascript" height="25" src="javascript.svg"></code>
   <code><img title="React" height="25" src="react-original.svg"></code>
   <code><img title="Git" height="25" src="git-original.svg"></code>
