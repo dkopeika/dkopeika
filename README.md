@@ -16,7 +16,7 @@
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Git" height="25" src="git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
