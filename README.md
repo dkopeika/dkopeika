@@ -2,13 +2,6 @@
   <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
 </p>
 
-### Sobiratel 
-
-- Open source is something I'm interested in.
-- Web3 and artificial intelligence is an area I'm focusing on right now.
-
-
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
@@ -20,7 +13,7 @@
   </div>
 </p>
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <div align=center>
   - <hr>
