@@ -16,8 +16,8 @@
     </a>
 </div>
 
-
-- <hr>
+<div>
+  - <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 
@@ -33,3 +33,4 @@
   <code><img title="TypeScript" height="25" src="icons8-typescript (1).svg"></code>
 </p>
 <hr>
+</div>
