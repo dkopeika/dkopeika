@@ -19,7 +19,7 @@
   <code><img title="Git" height="25" src="git-original.svg"></code>
   <code><img title="JSON" height="25" src="json.svg"></code>
   <code><img title="GitHub" height="25" src="github.svg"></code>
-  <code><img title="MySQL" height="25" src="mysql.svg"></code>
+  <code><img title="MySQL" height="25" src="my-sql.svg"></code>
   <code><img title="npm" height="25" src="npm.svg"></code>
 </p>
 <hr>
