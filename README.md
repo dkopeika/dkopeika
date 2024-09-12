@@ -15,7 +15,7 @@
 <p align="center">
   <code><img title="Python" height="25" src="python.svg"></code>
   <code><img title="Javascript" height="25" src="javascript.svg"></code>
-  <code><img title="React" height="25" src="react-original.svg"></code>
+  <code><img title="React" height="25" src="react.svg"></code>
   <code><img title="Git" height="25" src="git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
   <code><img title="JSON" height="25" src="json.svg"></code>
