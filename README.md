@@ -17,7 +17,6 @@
   <code><img title="Javascript" height="25" src="javascript.svg"></code>
   <code><img title="React" height="25" src="react.svg"></code>
   <code><img title="Git" height="25" src="git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
   <code><img title="JSON" height="25" src="json.svg"></code>
   <code><img title="GitHub" height="25" src="github.svg"></code>
   <code><img title="MySQL" height="25" src="mysql.svg"></code>
