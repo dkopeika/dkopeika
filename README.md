@@ -2,6 +2,11 @@
   <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
 </p>
 
+### Sobiratel 
+
+- Open source is something I'm interested in.
+- Web3 and artificial intelligence is an area I'm focusing on right now.
+
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -11,11 +16,6 @@
     </a>
 </div>
 
-
-### Sobiratel 
-
-- Open source is something I'm interested in.
-- Web3 and artificial intelligence is an area I'm focusing on right now.
 
 - <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
