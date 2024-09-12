@@ -4,6 +4,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dkopeika&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+
 ### Sobiratel 
 
 - Open source is something I'm interested in.
@@ -12,12 +18,6 @@
 - <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumrudu-anka&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
 
 <p align="center">
   <code><img title="Python" height="25" src="python.svg"></code>
