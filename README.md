@@ -21,6 +21,6 @@
   <code><img title="GitHub" height="25" src="github.svg"></code>
   <code><img title="MySQL" height="25" src="my-sql.svg"></code>
   <code><img title="npm" height="25" src="npm.svg"></code>
-  <code><img title="TypeScript" height="25" src="typescript"></code>
+  <code><img title="TypeScript" height="25" src="icons8-typescript.svg"></code>
 </p>
 <hr>
