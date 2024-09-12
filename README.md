@@ -13,14 +13,14 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Python" height="25" src="python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="javascript.svg"></code>
+  <code><img title="React" height="25" src="react-original.svg"></code>
   <code><img title="Git" height="25" src="git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
+  <code><img title="JSON" height="25" src="json.svg"></code>
+  <code><img title="GitHub" height="25" src="github.svg"></code>
+  <code><img title="MySQL" height="25" src="mysql.svg"></code>
+  <code><img title="npm" height="25" src="npm.svg"></code>
 </p>
 <hr>
